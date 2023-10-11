@@ -1,6 +1,6 @@
 ## A simple project design to return helloworld in terminal 
 
-create a folder <learn-webapp-backend-nodejs-01>
+-- create a folder <learn-webapp-backend-nodejs-01>
 
 1) run the following command to  make it node backend project
 npm init -y 
