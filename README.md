@@ -42,5 +42,7 @@ npm start
   git commit -m "1st commit"
   git push -u origin main
 ```
+11. check the output
+    ![image](https://github.com/abhiramdas99/learn-webapp-backend-nodejs-01/assets/62290469/19583c08-061a-496b-a10b-4061a95a5be6)
 
 
