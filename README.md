@@ -27,12 +27,12 @@ npm start
   -> search node gitignore file and add 
 
 9. Now push it git
-10. -- git
+   ```git
   -> git remote add origin git@github.com:abhiramdas99/learn-webapp-backend-nodejs-01.git
   -> git branch -M main
   -> git add .
   -> git commit -m "1st commit"
   -> git push -u origin main
-    --
+  ```
 
 
