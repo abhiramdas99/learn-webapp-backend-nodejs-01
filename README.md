@@ -1,4 +1,4 @@
-A simple project design to return helloworld in json format in browser 
+A simple project design to return helloworld in terminal 
 
 create a folder <learn-webapp-backend-nodejs-01>
 
