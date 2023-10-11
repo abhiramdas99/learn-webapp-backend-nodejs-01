@@ -1,4 +1,4 @@
-## A simple project design to return helloworld in terminal 
+## A simple project design to return Hello world in terminal 
 
 1. create a folder 
   ```git
